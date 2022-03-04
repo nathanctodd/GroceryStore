@@ -25,7 +25,7 @@
   <div style="margin: 100px;"></div>
    <div class="footer" style="height: 200px; width: 100%; background-color: gray; display: flex; justify-content: center; align-items: center;">      
       <div class="link">
-        <a href="https://github.com/nathanctodd/lab1.git" class="githublink" style="display: flex; font-size: 30px; color: white;">Nathan Todd  |  GitHub  |  Grocery Store</a>
+        <a href="https://github.com/nathanctodd/GroceryStore" class="githublink" style="display: flex; font-size: 30px; color: white;">Nathan Todd  |  GitHub  |  Grocery Store</a>
       </div>
     </div>
 </div>
